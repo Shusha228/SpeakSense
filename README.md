@@ -1,3 +1,4 @@
+![начальный экран](https://github.com/user-attachments/assets/9ccf0d5f-552d-44ab-b011-2171bbc63609)
 # SpeakSense
 Описание:
 
